@@ -1,0 +1,36 @@
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.csprojAssemblyReference.cache
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmMain.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.Properties.Resources.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.csproj.GenerateResource.cache
+D:\C#\UI design\Basic\Autovit\Autovit\bin\Debug\Autovit.exe.config
+D:\C#\UI design\Basic\Autovit\Autovit\bin\Debug\Autovit.exe
+D:\C#\UI design\Basic\Autovit\Autovit\bin\Debug\Autovit.pdb
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.exe
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.pdb
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmMarca.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmModel.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmAni.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmKm.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmCombustibil.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmPret.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmAdauga.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmCumpara.resources
+D:\C#\UI design\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmFiltru.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\bin\Debug\Autovit.exe.config
+D:\C#\UIdesign\Basic\Autovit\Autovit\bin\Debug\Autovit.exe
+D:\C#\UIdesign\Basic\Autovit\Autovit\bin\Debug\Autovit.pdb
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.csprojAssemblyReference.cache
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmAdauga.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmAni.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmCombustibil.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmCumpara.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmFiltru.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmKm.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmMain.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmMarca.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmModel.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.FrmPret.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.Properties.Resources.resources
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.csproj.GenerateResource.cache
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.exe
+D:\C#\UIdesign\Basic\Autovit\Autovit\obj\Debug\Autovit.pdb

@@ -1,0 +1,6 @@
+dacia,logan,2000,120000,benzina,800,Cisnadie Jud Sibiu Str Lacului,Dumitru Ivan 0773209831
+renault,symbol,2004,200000,diesel,1200,Avrig Jud Sibiu Str Cioplea,Ivan Dumitru 0763927391
+bmw,320d,2007,357000,diesel,2000,Sebes Jud Alba Bd Mihail Kogalniceanu,Robi Roberto 0793728401
+opel,astra,2001,240000,diesel,1200,Boita Jud Sibiu Str Vantului,Fartonea Mihai 0753729173
+hyundai,elantra,2017,14000,benzina,16000,Bucuresti Jud Ilfov Bd Mihai Viteazu,Popa Mirabela 0783923942
+audi,A4,2013,298000,diesel,8199,Vaslui,Stefan 0794837492
